@@ -1,0 +1,23 @@
+[
+    {
+        "owner": "aisha moorn",
+        "id": 55432,
+        "balance": 590.0,
+        "interest": 1.1,
+        "years": 10
+    },
+    {
+        "owner": "tartuf gjoka",
+        "id": 38294,
+        "balance": 990.0,
+        "interest": 0.3,
+        "years": 3
+    },
+    {
+        "owner": "maya sims",
+        "id": 57575,
+        "balance": 14000.0,
+        "interest": 2.0,
+        "years": 20
+    }
+]
