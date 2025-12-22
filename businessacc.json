@@ -1,0 +1,245 @@
+[
+    {
+        "owner": "jackson mighs",
+        "id": 66775,
+        "balance": 6105.0,
+        "business_name": "marin hotel",
+        "authorized_users": [
+            {
+                "name": "maya tims",
+                "personal_id": 68302
+            },
+            {
+                "name": "jackson mighs",
+                "personal_id": 77789
+            }
+        ],
+        "transactions": [
+            {
+                "type": "transfer in",
+                "amount": 200.0,
+                "date": "2025-11-30T14:44:32.504137",
+                "balance": 6555.0
+            },
+            {
+                "type": "transfer out",
+                "amount": 150.0,
+                "date": "2025-11-30T14:48:35.383144",
+                "balance": 6405.0
+            },
+            {
+                "type": "transfer out",
+                "amount": 400.0,
+                "date": "2025-12-13T17:45:08.720732",
+                "balance": 6505.0
+            },
+            {
+                "type": "transfer",
+                "amount": 500.0,
+                "date": "2025-12-21T16:41:38.148065",
+                "balance": 6005.0
+            },
+            {
+                "type": "loan",
+                "amount": 2,
+                "date": "2025-12-21T16:42:38.797974",
+                "balance": 6105.0
+            }
+        ],
+        "loans": [
+            {
+                "amount": 500.0,
+                "interest": 1.2,
+                "years": 6,
+                "remaining_months": 72,
+                "monthly_payback": 50.052378298572094,
+                "date_taken": "2025-12-01T21:38:12.140860",
+                "next_payment": "2026-01-01T21:38:12.140860"
+            },
+            {
+                "amount": 100.0,
+                "interest": 1.1,
+                "years": 2,
+                "remaining_months": 24,
+                "monthly_payback": 10.43865575279733,
+                "date_taken": "2025-12-21T16:42:38.797759",
+                "next_payment": "2026-01-21T16:42:38.797759"
+            }
+        ]
+    },
+    {
+        "owner": "brandon les",
+        "id": 90901,
+        "balance": 48900.0,
+        "business_name": "bookist shop",
+        "authorized_users": [
+            {
+                "name": "brandon les",
+                "personal_id": 33325
+            }
+        ],
+        "transactions": [
+            {
+                "type": "transfer out",
+                "amount": 200.0,
+                "date": "2025-11-30T14:44:32.504063",
+                "balance": 48445.0
+            },
+            {
+                "type": "transfer in",
+                "amount": 150.0,
+                "date": "2025-11-30T14:48:35.383237",
+                "balance": 48595.0
+            },
+            {
+                "type": "transfer out",
+                "amount": 475.0,
+                "date": "2025-12-05T19:30:45.856383",
+                "balance": 48000.0
+            },
+            {
+                "type": "transfer in",
+                "amount": 400.0,
+                "date": "2025-12-08T17:01:53.386054",
+                "balance": 48400.0
+            }
+        ],
+        "loans": []
+    },
+    {
+        "owner": "john twars",
+        "id": 12906,
+        "balance": 15875.0,
+        "business_name": "twars shop",
+        "authorized_users": [
+            {
+                "name": "john twars",
+                "personal_id": 12906
+            }
+        ],
+        "transactions": [
+            {
+                "type": "transfer in",
+                "amount": 475.0,
+                "date": "2025-12-05T19:30:45.856450",
+                "balance": 15475.0
+            }
+        ],
+        "loans": [
+            {
+                "amount": 400.0,
+                "interest": 1.2,
+                "years": 4,
+                "remaining_months": 48,
+                "monthly_payback": 40.416591880678624,
+                "date_taken": "2025-12-05T19:35:49.411409",
+                "next_payment": "2026-01-05T19:35:49.411409"
+            }
+        ]
+    },
+    {
+        "owner": "gabrielle morette",
+        "id": 80307,
+        "balance": 46650.0,
+        "business_name": "sectors' home hotel",
+        "authorized_users": [
+            {
+                "name": "gabrielle morette",
+                "personal_id": 80307
+            },
+            {
+                "name": "cassius bellona",
+                "personal_id": 23
+            }
+        ],
+        "transactions": [
+            {
+                "type": "transfer out",
+                "amount": 400.0,
+                "date": "2025-12-08T17:01:53.375677",
+                "balance": 46600.0
+            },
+            {
+                "type": "transfer out",
+                "amount": 550.0,
+                "date": "2025-12-09T22:12:07.805248",
+                "balance": 46250.0
+            },
+            {
+                "type": "transfer in",
+                "amount": 400.0,
+                "date": "2025-12-13T17:45:08.720802",
+                "balance": 46650.0
+            }
+        ],
+        "loans": [
+            {
+                "amount": 200.0,
+                "interest": 0.5,
+                "years": 5,
+                "remaining_months": 60,
+                "monthly_payback": 9.120948332110093,
+                "date_taken": "2025-12-08T17:03:39.012165",
+                "next_payment": "2026-01-08T17:03:39.012165"
+            }
+        ]
+    },
+    {
+        "owner": "tartuf gjoka",
+        "id": 38294,
+        "balance": 7530.0,
+        "business_name": "tartuf fish",
+        "authorized_users": [
+            {
+                "name": "tartuf gjoka",
+                "personal_id": 38294
+            }
+        ],
+        "transactions": [
+            {
+                "type": "transfer in",
+                "amount": 550.0,
+                "date": "2025-12-09T22:12:07.805334",
+                "balance": 6430.0
+            },
+            {
+                "type": "transfer in",
+                "amount": 700.0,
+                "date": "2025-12-13T16:27:01.488506",
+                "balance": 7530.0
+            }
+        ],
+        "loans": [
+            {
+                "amount": 400.0,
+                "interest": 0.8,
+                "years": 4,
+                "remaining_months": 48,
+                "monthly_payback": 27.92748676106814,
+                "date_taken": "2025-12-09T22:12:48.125056",
+                "next_payment": "2026-01-09T22:12:48.125056"
+            }
+        ]
+    },
+    {
+        "owner": "nathan blake",
+        "id": 40333,
+        "balance": 68900.0,
+        "business_name": "blakes swift",
+        "authorized_users": [
+            {
+                "name": "nathan blake",
+                "personal_id": 40333
+            }
+        ],
+        "transactions": [
+            {
+                "type": "transfer out",
+                "amount": 700.0,
+                "date": "2025-12-13T16:27:01.488413",
+                "balance": 68900.0
+            }
+        ],
+        "loans": []
+    }
+]
