@@ -1,0 +1,37 @@
+[
+    {
+        "owner": "cassius bellona",
+        "id": 99871,
+        "balance": 4460.0,
+        "overdraft_limit": 120.0,
+        "fee": 0.5
+    },
+    {
+        "owner": "coriolanus snow",
+        "id": 90918,
+        "balance": 6388.0,
+        "overdraft_limit": 1.2,
+        "fee": 0.3
+    },
+    {
+        "owner": "tartuf gjoka",
+        "id": 38294,
+        "balance": 5678.0,
+        "overdraft_limit": 0.5,
+        "fee": 0.8
+    },
+    {
+        "owner": "samara leew",
+        "id": 22991,
+        "balance": 4000.0,
+        "overdraft_limit": 0.8,
+        "fee": 0.5
+    },
+    {
+        "owner": "sam yiss",
+        "id": 65654,
+        "balance": 5245.0,
+        "overdraft_limit": 0.4,
+        "fee": 0.5
+    }
+]
