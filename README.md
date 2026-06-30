@@ -1,41 +1,51 @@
-#Banking System (Python, OOP)
-A command-line banking system built in Python that simulates real-world banking operations, including customer management, multiple account types, and transaction handling.
-This project focuses on object-oriented design, data persistence, and building a structured, scalable application.
+# Banking System
 
-##Features
- - Account Management
- - Personal customer accounts
- - Savings accounts with interest calculation
- - Checking accounts with overdraft support
- - Business Accounts
- - Support for authorized users
- - Transfers between business accounts
- - Basic loan management functionality
-   
-System Capabilities
- - Persistent data storage using JSON files
- - Input validation and custom exception handling
- - Modular and extensible design
- - Testing
- - Fully tested using pytest
+A command-line banking system built in Python that simulates real-world banking operations. Supports multiple account types, customer management, transaction handling, and persistent data storage. Built with a focus on object-oriented design, inheritance, and custom exception handling.
 
-Concepts Demonstrated
- - Object-Oriented Programming (OOP)
- - Inheritance and polymorphism
- - File handling with JSON
- - Custom exception design
- - Unit testing
- - Command-line interface (CLI) design
-   
-How to Run
- - Ensure you have Python 3.10+ installed
- - Clone the repository or download the project
-   
-Navigate to the project directory
-Run:
+## Features
+
+**Account Types**
+- Savings accounts with interest calculation
+- Checking accounts with overdraft support
+- Business accounts with authorized users and inter-account transfers
+
+**Customer Management**
+- Create, view, and manage personal customer profiles
+- Link multiple account types to a single customer
+
+**Transactions**
+- Deposits, withdrawals, and balance checks
+- Business account loan management
+- Transfers between business accounts
+
+**System**
+- Persistent storage using JSON files
+- Input validation throughout
+- Custom exception classes for domain-specific errors
+- Fully tested with pytest (4 test files covering all account types)
+
+## Project Structure
+├── bank.py          # Core banking logic and account classes
+├── main.py          # Entry point and CLI interface
+├── exceptions.py    # Custom exception definitions
+├── api/             # API layer
+├── test_customer.py
+├── test_savings.py
+├── test_checking.py
+└── test_business.py
+
+## Concepts Demonstrated
+
+- Object-oriented programming with inheritance and polymorphism
+- Custom exception design
+- File I/O with JSON
+- Unit testing with pytest
+- CLI application design
+
+## How to Run
+
+```bash
 python main.py
+```
 
-Notes
-This project was developed as part of my learning journey in Python and object-oriented programming
-It is a simplified simulation and does not represent a full production banking system
-No external dependencies are required
+No external dependencies required — Python 3.10+ only.
